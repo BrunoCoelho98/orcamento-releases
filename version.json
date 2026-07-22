@@ -1,5 +1,5 @@
 {
-  "versao": "1.0.5",
-  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.0.5/Orcamento-1.0.5-setup.exe",
-  "notas": "bugfix incrementação, editar atividade, filtro material/atividade, ordem dos pontos, alterações no layout"
+  "versao": "1.0.6",
+  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.0.6/Orcamento-1.0.6-setup.exe",
+  "notas": "Copiar sem confimação, vao inicial 0-1, ordem numérica no export/copia, alerta na falta de seleção de cabo, quadro-resumo, bugfix edição de ponto na coluna não persistia"
 }
