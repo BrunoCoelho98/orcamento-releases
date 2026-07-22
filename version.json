@@ -1,5 +1,5 @@
 {
-  "versao": "1.0.4",
-  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.0.4/Orcamento-1.0.4-setup.exe",
-  "notas": "CSV, copiar estrutura, Senha config, importar excel/csv, bugfix, botão publicar"
+  "versao": "1.0.5",
+  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.0.5/Orcamento-1.0.5-setup.exe",
+  "notas": "bugfix incrementação, editar atividade, filtro material/atividade, ordem dos pontos, alterações no layout"
 }
