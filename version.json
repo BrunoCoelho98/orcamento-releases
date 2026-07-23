@@ -1,7 +1,7 @@
 {
-  "versao": "1.1.1",
-  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.1.1/Orcamento-1.1.1-setup.exe",
-  "notas": "Adicionado cabos nu BT",
+  "versao": "1.1.2",
+  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.1.2/Orcamento-1.1.2-setup.exe",
+  "notas": "Corrigido bug de publicação",
   "versao_dados": "2026-07-23T13:20:20",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
   "notas_dados": "Atualização de configurações"
