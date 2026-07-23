@@ -2,7 +2,7 @@
   "versao": "1.0.9",
   "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.0.9/Orcamento-1.0.9-setup.exe",
   "notas": "Corrigido bug na retirada de cabo",
-  "versao_dados": "2026-07-23T08:45:30",
+  "versao_dados": "2026-07-23T11:42:33",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
-  "notas_dados": "Excluido itens vinculados ao terminal Spade"
+  "notas_dados": "Republicando com carimbo"
 }
