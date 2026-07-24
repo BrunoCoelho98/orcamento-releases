@@ -1,7 +1,7 @@
 {
-  "versao": "1.1.2",
-  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.1.2/Orcamento-1.1.2-setup.exe",
-  "notas": "Corrigido bug de publicação",
+  "versao": "1.2.2",
+  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.2.2/Orcamento-1.2.2-setup.exe",
+  "notas": "Opção renomear projeto, observações equipamentos e cabo por estrutura",
   "versao_dados": "2026-07-24T09:53:53",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
   "notas_dados": "Observações equipamentos"
