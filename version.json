@@ -2,7 +2,7 @@
   "versao": "1.2.2",
   "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.2.2/Orcamento-1.2.2-setup.exe",
   "notas": "Opção renomear projeto, observações equipamentos e cabo por estrutura",
-  "versao_dados": "2026-07-28T14:25:11",
+  "versao_dados": "2026-07-28T14:25:40",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
   "notas_dados": "Etapas das atividades e observacoes dos equipamentos"
 }
