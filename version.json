@@ -1,7 +1,7 @@
 {
-  "versao": "1.3.4",
-  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.3.4/Orcamento-1.3.4-setup.exe",
-  "notas": "Importe de estrutura excel",
+  "versao": "1.3.5",
+  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.3.5/Orcamento-1.3.5-setup.exe",
+  "notas": "Ordem de estruturas, editar observações",
   "versao_dados": "2026-07-29T08:39:14",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
   "notas_dados": "Trafo 10KVA"
