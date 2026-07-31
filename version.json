@@ -2,7 +2,7 @@
   "versao": "1.3.6",
   "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.3.6/Orcamento-1.3.6-setup.exe",
   "notas": "Setas para ordenação de estrutura",
-  "versao_dados": "2026-07-29T08:39:14",
+  "versao_dados": "2026-07-31T08:02:43",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
-  "notas_dados": "Trafo 10KVA"
+  "notas_dados": "Ordem BT"
 }
