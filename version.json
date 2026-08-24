@@ -2,7 +2,7 @@
   "versao": "1.4.0",
   "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.4.0/Orcamento-1.4.0-setup.exe",
   "notas": "bug importação de projeto corrigido",
-  "versao_dados": "2026-08-24T15:37:14",
+  "versao_dados": "2026-08-24T15:57:34",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
   "notas_dados": "Atualização de configurações"
 }
