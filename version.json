@@ -1,7 +1,7 @@
 {
-  "versao": "1.3.9",
-  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.3.9/Orcamento-1.3.9-setup.exe",
-  "notas": "bugfix linhas duplicadas",
+  "versao": "1.4.0",
+  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.4.0/Orcamento-1.4.0-setup.exe",
+  "notas": "bug importação de projeto corrigido",
   "versao_dados": "2026-08-19T11:27:43",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
   "notas_dados": "Correção Estrutura IT-R"
