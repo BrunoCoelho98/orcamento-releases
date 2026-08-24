@@ -1,7 +1,7 @@
 {
-  "versao": "1.4.0",
-  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.4.0/Orcamento-1.4.0-setup.exe",
-  "notas": "bug importação de projeto corrigido",
+  "versao": "1.4.2",
+  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.4.2/Orcamento-1.4.2-setup.exe",
+  "notas": "Aviso quando as tabelas de preço não sincronizam e reparo automático do banco",
   "versao_dados": "2026-08-24T16:11:00",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
   "notas_dados": "teste"
