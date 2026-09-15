@@ -2,7 +2,7 @@
   "versao": "1.4.4",
   "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.4.4/Orcamento-1.4.4-setup.exe",
   "notas": "Correção de certificado no download de dados e atualização",
-  "versao_dados": "2026-09-08T15:45:58",
+  "versao_dados": "2026-09-15T14:54:52",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
-  "notas_dados": "Atualização de configurações"
+  "notas_dados": "Excluido Barra Terminal das estruturas CE2-TR e CE3-TR"
 }
