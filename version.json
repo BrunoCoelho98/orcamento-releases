@@ -1,7 +1,7 @@
 {
-  "versao": "1.4.4",
-  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.4.4/Orcamento-1.4.4-setup.exe",
-  "notas": "Correção de certificado no download de dados e atualização",
+  "versao": "1.4.5",
+  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.4.5/Orcamento-1.4.5-setup.exe",
+  "notas": "Adicionado exportar estrutura",
   "versao_dados": "2026-09-17T16:56:57",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
   "notas_dados": "Ajustado trafo no conjunto CE3/CE2"
