@@ -2,7 +2,7 @@
   "versao": "1.4.5",
   "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.4.5/Orcamento-1.4.5-setup.exe",
   "notas": "Adicionado exportar estrutura",
-  "versao_dados": "2026-09-24T12:56:06",
+  "versao_dados": "2026-09-25T18:22:00",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
-  "notas_dados": "Excluido estrutura primaria CE3D-NUA"
+  "notas_dados": "Atualização de configurações"
 }
