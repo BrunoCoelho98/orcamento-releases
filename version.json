@@ -2,7 +2,7 @@
   "versao": "1.4.6",
   "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.4.6/Orcamento-1.4.6-setup.exe",
   "notas": "Alterado ordem dos campos dos cabos",
-  "versao_dados": "2026-10-22T14:50:24",
+  "versao_dados": "2026-11-05T10:28:22",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
-  "notas_dados": "Adicionado novo material"
+  "notas_dados": "Atualização de configurações"
 }
