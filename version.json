@@ -1,7 +1,7 @@
 {
-  "versao": "1.4.7",
-  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.4.7/Orcamento-1.4.7-setup.exe",
-  "notas": "Aterramento de cerca usa os materiais configurados nos dados mestres",
+  "versao": "1.5.1",
+  "url": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/v1.5.1/Orcamento-1.5.1-setup.exe",
+  "notas": "Opções de marcar do Lançar Ponto editáveis nas Configurações",
   "versao_dados": "2026-11-06T18:16:10",
   "url_dados": "https://github.com/BrunoCoelho98/orcamento-releases/releases/download/dados/mestre.db",
   "notas_dados": "Atualização de configurações"
